@@ -1,4 +1,4 @@
-#### Hello there,I'm Farah 🌱
+## Hello there,I'm Farah 🌱
 -----------------
 I'm a 22-year-old developer based in Tunisia, and I like to combine my love for arts and my software engineering degree to craft unique digital experiences.
 
