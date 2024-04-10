@@ -1,7 +1,7 @@
 # Hello there,I'm Farah 🌱
 I'm a 22-year-old developer based in Tunisia, and I like to combine my love for arts and my software engineering degree to craft unique digital experiences.
 
-Check out my [website](https://www.figma.com/file/NzAIT8c73rTiYe5fwiYrXo/mon-portfolio?type=design&node-id=0-1&mode=design&t=uFQu1iv6f8j5tVdL-0) to learn more about me.
+Check out my [website](https://www.figma.com/proto/NzAIT8c73rTiYe5fwiYrXo/mon-portfolio?type=design&node-id=1-2&t=SEp4CkEaPmR9Rk4F-0&scaling=min-zoom&page-id=0%3A1) to learn more about me.
 
 # 📦 Toolbox
 
