@@ -9,7 +9,7 @@ Frontend Development: React Next.js TypeScript Tailwind Material-UI Framer-Motio
 
 Version Control: Git GitLab Bitbucket
 
-Backend Development: Nest.js GraphQL Firebase
+Backend Development:Dotnet Nest.js GraphQL Firebase
 
 Mobile Development: Flutter Dart.
 
