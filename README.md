@@ -5,7 +5,7 @@ Check out my [website](https://farahtriguiportfolio.netlify.app) to learn more a
 
 # 📦 Toolbox
 
-Frontend Development: React Next.js TypeScript Tailwind Material-UI Framer-Motion
+Frontend Development: React Next.js TypeScript Tailwind
 
 Version Control: Git GitLab Bitbucket
 
@@ -15,7 +15,7 @@ Mobile Development: Flutter Dart.
 
 Product Design: UI/UX Figma Adobe Illustrator Adobe Photopshop
 
-Testing: Cypress Playwright Vitest Postman 
+Testing: Postman 
 
 Others: office-Suite SWI-Prolog RabbitMQ 
 
