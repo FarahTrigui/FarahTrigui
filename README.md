@@ -3,13 +3,14 @@ I'm a 22-year-old developer based in Tunisia, and I like to combine my love for 
 
 Check out my [website](https://farahtriguiportfolio.netlify.app) to learn more about me.
 
-# 📦 Toolbox
+# 📦 Providers :p
+Cloud & sysOps: GCP OpenStack terraform terraformCloud   
 
-Frontend Development: React Next.js TypeScript Tailwind
+Frontend Development: Angular React Next.js TypeScript Tailwind
 
 Version Control: Git GitLab Bitbucket
 
-Backend Development:Dotnet Nest.js GraphQL WebSockets 
+Backend Development: Dotnet Nest.js GraphQL WebSockets 
 
 Mobile Development: Flutter Dart.
 
