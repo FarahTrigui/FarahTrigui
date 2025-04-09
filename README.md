@@ -3,7 +3,7 @@
 <img width="100%" height = "250px" src="https://github.com/FarahTrigui/FarahTrigui/blob/main/Pixilart%20-%20Live%20on.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px> </h1>
+<h1> Hello Fellow < DevOpsers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px> </h1>
   
 <div size='20px'> Hi! My name is Farah. Thank You for taking the time to view my GitHub Profile :smile: 
   <a href="https://komarev.com/ghpvc/?username=FarahTrigui">
@@ -26,6 +26,7 @@
 💬 Always up for a chat about Kubernetes, CI/CD pipelines, Cloud, and all things DevOps!
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px> </h2>
+
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
