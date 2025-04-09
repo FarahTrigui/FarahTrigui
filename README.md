@@ -3,7 +3,7 @@
 <img width="100%" height = "250px" src="https://github.com/FarahTrigui/FarahTrigui/blob/main/Pixilart%20-%20Live%20on.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < DevOpsers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px height=40px> </h1>
+<h1> Hello < DevOpsers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px height=40px> </h1>
   
 <div size='20px'> Hi! My name is Farah a Software Engineering student at my beloved <a href="https://www.linkedin.com/school/national-institute-of-applied-science-and-technology/" target="_blank"><b>INSAT</b></a>. Thank You for taking the time to view my GitHub Profile :smile: 
   <a href="https://komarev.com/ghpvc/?username=FarahTrigui">
