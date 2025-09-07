@@ -17,13 +17,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-🔭 At the moment, I’m building a managed PostgreSQL service on Kubernetes and setting up monitoring dashboards with Prometheus and Grafana.
+🔭 Completed a managed PostgreSQL service on Kubernetes with monitoring dashboards using Prometheus and Grafana, gaining hands-on experience in Platform Engineering.
 
-🌱 I’m diving deeper into tools like Kubernetes, Jenkins, and Cloud Native PostgreSQL, along with DevOps best practices.
+🌱 Expanding expertise in Kubernetes, Cloud Native PostgreSQL, Jenkins, and cloud infrastructure best practices.
 
-🤝 I'm open to teaming up on cloud infrastructure projects, automation workflows, and database-related initiatives.
+🤝 Open to collaborating on cloud platforms, automation workflows, and Platform Engineering projects.
 
-💬 Always up for a chat about Kubernetes, CI/CD pipelines, Cloud, and all things DevOps!
+💬 Always happy to discuss Cloud, Platform Engineering, CI/CD pipelines, and DevOps practices!
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px> </h2>
 
