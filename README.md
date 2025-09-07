@@ -54,7 +54,7 @@
 
 <!-- Project 3 -->
 <div style="border: 2px solid #e1e4e8; border-radius: 12px; padding: 16px; width: 45%; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
-<h3>Azure Provisioning with Terraform – Infrastructure as Code</h3>
+<h3><a href="https://github.com/FarahTrigui/ansible-configuring-terraform">Azure Provisioning with Terraform – Infrastructure as Code</h3>
 <p><sub>Mar 2025</sub></p>
 <ul>
 <li>🟢 Provisioned <b>Ubuntu VM on Azure</b> with Terraform</li>
