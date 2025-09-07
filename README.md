@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Farah! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px"></h1>
-<p align="center">Software Engineering Student at my beloved <a href="https://www.linkedin.com/school/national-institute-of-applied-science-and-technology/" target="_blank"><b>INSAT</b></a>. | Cloud & DevOps Enthusiast | Platform Engineering 🚀</p>
+<p align="center">Software Engineering Student at my beloved <a href="https://www.linkedin.com/school/national-institute-of-applied-science-and-technology/" target="_blank"><b>INSAT</b></a> | Cloud & DevOps Enthusiast | Platform Engineering 🚀</p>
 
 ---
 
@@ -106,29 +106,24 @@
 
 ---
 
+
 ## 🏗 My Journey
 
-<div align="center">
-- Started with **Python & SQL**, building small automation scripts  
-- Explored **Cloud Platforms**: AWS, GCP, Azure, OpenStack  
-- Learned **Containerization & Orchestration**: Docker, Kubernetes  
-- Built **Managed PostgreSQL Service** on Kubernetes with monitoring dashboards  
-- Focused on **Platform Engineering & CI/CD Automation**
-</div>
+```yaml
+journey:
+  - started_with: "Python & SQL, building small automation scripts"
+  - explored_cloud_platforms: ["AWS", "GCP", "Azure", "OpenStack"]
+  - learned: "Containerization & Orchestration (Docker, Kubernetes)"
+  - built: "Managed PostgreSQL Service on Kubernetes with monitoring dashboards"
+  - focus: "Platform Engineering & CI/CD Automation"
 
----
-
-## 📈 Learning & Focus
-
-<div align="center">
-- Advanced **Kubernetes patterns** & GitOps  
-- Cloud Native **PostgreSQL automation**  
-- Terraform-driven **multi-cloud infrastructure**  
-- DevSecOps & **secure pipelines**  
-- Observability & monitoring with **Prometheus/Grafana**
-</div>
-
----
+learning_focus:
+  - advanced_topics: ["Kubernetes patterns", "GitOps"]
+  - cloud_native: "PostgreSQL automation"
+  - infrastructure: "Terraform-driven multi-cloud setup"
+  - devsecops: "Secure pipelines & DevSecOps practices"
+  - observability: "Monitoring with Prometheus & Grafana"
+```
 
 ## 📫 Connect With Me
 
