@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td align="center" width="200">
-<img width="100" src="https://tenor.com/view/hi-babybeans-babybeansdesigns-cat-hi-cat-hello-gif-11694844958654797346" />
+<img width="100" src="https://github.com/FarahTrigui/FarahTrigui/blob/main/hi-babybeans.gif" />
 </td>
 <td>
 💻 <b>Role:</b> Software Engineering Student <br>
