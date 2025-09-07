@@ -7,7 +7,7 @@
 
 ---
 
-## 🌟 Who I Am
+## 🌟 About Me
 
 <div align="center">
 <table>
@@ -19,14 +19,37 @@
 💻 **Role:** Software Engineering Student <br>
 🌍 **Location:** Tunis, Tunisia <br>
 🎯 **Focus:** Platform Engineering, Kubernetes, CI/CD, Cloud Automation <br>
-🛠 **Core Projects:** <br>
-- Managed PostgreSQL on Kubernetes with Prometheus & Grafana <br>
-- OpenStack rollback automation <br>
 💬 **Let's Chat About:** DevOps, Cloud, Platform Engineering, Automation
 </td>
 </tr>
 </table>
 </div>
+
+---
+
+## 🚀 Core Projects
+
+- **[Final Year Project – Managed PostgreSQL Service on Kubernetes](https://github.com/FarahTrigui/PFA-ClustroPG-DBaaS)** (Feb 2025 – Jun 2025)  
+  - Automated deployment of high-availability PostgreSQL clusters with **CloudNativePG**, Terraform, and backups via **Barman/MinIO** with PITR  
+  - Developed a **Flask API web service** integrated with **Prometheus/Grafana** dashboards  
+
+- **[Secure CI/CD Automation – Netflix Clone](https://github.com/FarahTrigui/Netflix-DevSecOps)** (Apr 2025)  
+  - Built secure **CI/CD pipeline on Jenkins**  
+  - Performed **static code analysis** with SonarQube and OWASP  
+  - Containerized with Docker, deployed on **AKS**, monitored with Prometheus/Grafana  
+  - Implemented **DevSecOps practices**: dependency checks, image scanning, security audits  
+
+- **Azure Provisioning with Terraform – Infrastructure as Code** (Mar 2025)  
+  - Provisioned **Ubuntu VM on Azure** with Terraform  
+  - Automated creation of cloud resources: resource group, VNet, subnet, public IP, network interface, VM  
+  - Generated SSH keys, configured disk, exported outputs  
+  - Demonstrated **cloud-native, reproducible infrastructure management**  
+
+- **[Kubernetes Deployments Automation via GitOps](https://github.com/FarahTrigui/k8s-with-argoCD-and-helm.git)** (Mar 2025)  
+  - CI/CD pipeline with **Jenkins** for build, tests, quality analysis, artifact publishing  
+  - Integrated automatic quality checks to block non-compliant deployments  
+  - Packaged Helm charts, deployed Kubernetes apps via **ArgoCD** for reproducibility  
+  - Automated image versioning and repo synchronization  
 
 ---
 
@@ -56,7 +79,7 @@
 
 ---
 
-## 🚀 My Journey
+## 🏗 My Journey
 
 <div align="center">
 - Started with **Python & SQL**, building small automation scripts  
@@ -64,6 +87,18 @@
 - Learned **Containerization & Orchestration**: Docker, Kubernetes  
 - Built **Managed PostgreSQL Service** on Kubernetes with monitoring dashboards  
 - Focused on **Platform Engineering & CI/CD Automation**
+</div>
+
+---
+
+## 📈 Learning & Focus
+
+<div align="center">
+- Advanced **Kubernetes patterns** & GitOps  
+- Cloud Native PostgreSQL automation  
+- Terraform-driven **multi-cloud infrastructure**  
+- DevSecOps & secure pipelines  
+- Observability & monitoring with **Prometheus/Grafana**
 </div>
 
 ---
