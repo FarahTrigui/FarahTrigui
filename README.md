@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td align="center" width="200">
-<img width="100" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="100" src="https://github.com/FarahTrigui/FarahTrigui/blob/main/Pixilart%20-%20Live%20on.gif" />
 </td>
 <td>
 💻 <b>Role:</b> Software Engineering Student <br>
