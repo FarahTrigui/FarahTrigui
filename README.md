@@ -17,7 +17,8 @@
 </td>
 <td>
 💻 <b>Role:</b> Software Engineering Student <br>
-🌍 <b>Location:</b> Tunis, Tunisia <br>
+🌆 <b>technical_background:</b> [DevOps/Cloud Intern – PCP, DevOps / Cloud Intern – 3S, Intern – Placeholder Tunisia] <br>
+🏆 <b>Certifications:</b> • Ansible Essentials • Terraform Cloud Basics • GCP Essentials • Cloud Computing Foundations • Overview of Linux • DBA and SQL Basics
 🎯 <b>Focus:</b> Platform Engineering, Kubernetes, CI/CD, Cloud Automation <br>
 💬 <b>Let's Chat About:</b> DevOps, Cloud, Platform Engineering, Automation
 </td>
